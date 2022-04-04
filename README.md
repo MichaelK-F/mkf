@@ -1,10 +1,5 @@
 ## Welcome to GitHub Pages
 
-```html
-
-<h1>test</h1>
-
-```
 
 You can use the [editor on GitHub](https://github.com/MichaelK-F/mkf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
